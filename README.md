@@ -4,4 +4,4 @@ The responsive markup (from a layout) of header and main (<i>hero</i>) screen wi
 
 Technology stack: HTML5, SCSS, Bootstrap + full responsive.
 
-You can look a result here: <a href="https://n-icko.github.io/testTask__Title-page/" target="_blank">to github pages</a>
+You can look a result here: <a href="https://n-icko.github.io/testTask__Title-page/" target="_blank">on github pages</a>
