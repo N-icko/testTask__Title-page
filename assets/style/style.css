@@ -114,6 +114,9 @@
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
+  .header__wrapper .header__nav .navbar-nav .nav-item {
+    height: 60px;
+  }
   .header__wrapper .header__nav .navbar-nav .nav-item .dropdown-menu {
     display: none;
   }
